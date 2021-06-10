@@ -1,0 +1,18 @@
+.jogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.painel{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: darkgreen;
+}
+
+.tempo{
+    display: flex;
+    justify-content: space-between;
+}
